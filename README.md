@@ -1,1 +1,1 @@
-# UNI-2020
+# Прошивки для модели Magnum Creative 2 UNI-2020
